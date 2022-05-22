@@ -42,8 +42,13 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase"></code>
-<div>
+</div>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
+  
 <div align="center">
 <img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" />
 <img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" />
