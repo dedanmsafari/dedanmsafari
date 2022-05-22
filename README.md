@@ -56,7 +56,7 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
   
   ### Goals for 2022 💪:
   
-  To make meaningful progress in my career while maintaining great mental and physical health.
+  To progress forward in my career while maintaining great mental and physical health.
   
   <div align="center">
   
