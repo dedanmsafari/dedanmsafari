@@ -11,12 +11,12 @@
 <div style={{display="flex",flex-direction="row",justify-content="space-between"}}>
   <span>
 <a href="https://github.com/dedanmsafari/github-readme-stats">
-  <img height= "180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedanmsafari&layout=compact&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
+  <img height= "200em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedanmsafari&layout=compact&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
 </a>
     </span>
   <span>
 <a href="https://github.com/dedanmsafari/convoychat">
-  <img height= "180em" width="400em"  src="https://github-readme-stats.vercel.app/api?username=dedanmsafari&&show_icons=true&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
+  <img height= "200em" width="400em"  src="https://github-readme-stats.vercel.app/api?username=dedanmsafari&&show_icons=true&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
 </a>
     </span>
 </div>
