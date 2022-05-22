@@ -1,4 +1,4 @@
-# Hello World <img src="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm" width="30px">, Jambo! mi nombre es Dedan Msafari 👨🏼‍💻 
+# Hello World <img src="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm" width="60px">, Jambo! mi nombre es Dedan Msafari 👨🏼‍💻 
 
 
 - 🔭 I’m currently working on JAMSTACK.
