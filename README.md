@@ -31,19 +31,18 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 
 ### Languages and Tools 🛠:
 
-
-<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg" alt="jamstack"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="react"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
+<div  align="center">
+<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" alt="gatsby"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jamstack/jamstack-original.svg" alt="jamstack"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="react"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase"></code>
-
+<div>
 
 <div align="center">
 <img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" />
