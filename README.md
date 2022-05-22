@@ -1,4 +1,4 @@
-### Hello World 👋, Jambo! My name is Dedan Msafari 
+### Hello World <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, Jambo! My name is Dedan Msafari 
 
 
 - 🔭 I’m currently working on JAMSTACK.
