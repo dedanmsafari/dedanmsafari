@@ -1,4 +1,4 @@
-# Hello World <img src="https://i.gifer.com/3AlV.gif" width="60px">, Jambo! mi nombre es Dedan Msafari 👨🏼‍💻 
+# Hello World <img src="https://i.gifer.com/3AlV.gif width="30px">, Jambo! mi nombre es Dedan Msafari 👨🏼‍💻 
 
 
 - 🔭 I’m currently working on JAMSTACK.
