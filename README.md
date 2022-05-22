@@ -54,8 +54,12 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 <img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" />
   </div>
   
+  ### Goals for 2022 💪:
+  
+  To make meaningful progress in my career while maintaining great mental and physical health.
+  
   <div align="center">
-
+  
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
