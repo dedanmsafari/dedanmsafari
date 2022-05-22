@@ -9,4 +9,4 @@
 - 📫 How to reach me: dedan.msafari@gmail.com.
 - ⚡ Fun fact: When motivated and focused i can work for 1.5days without sleeping.Tried and tested.
 
-<img src="https://github-readme-stats.vercel.app/api?username=dedanmsafari&&show_icons=true&title_color=ff0a54&icon_color=bb2acf&text_color=daf7dc&bg_color=011627"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dedanmsafari&&show_icons=true&title_color=ff0a54&icon_color=bb2acf&text_color=ffffff&bg_color=011627"/>
