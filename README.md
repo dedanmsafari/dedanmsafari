@@ -57,7 +57,7 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
   ### Goals for 2022 💪:
   
   To progress forward in my career while maintaining great mental and physical health.
-  
+ # 
   <div align="center">
   
 ### Show some ❤️ by starring some of the repositories!
