@@ -40,9 +40,8 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="react"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="material-ui"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-<code><img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase"></code>
 
 
