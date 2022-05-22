@@ -28,6 +28,17 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
   <img height= "180em" width="400em"  src="https://github-readme-stats.vercel.app/api?username=dedanmsafari&&show_icons=true&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
 </div>
 
+### Languages and Tools:
+
+
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gatsbyjs/gatsbyjs.png" alt="react"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="react"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+
 
 <div>
 <img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" />
