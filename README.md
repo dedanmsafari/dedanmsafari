@@ -10,10 +10,10 @@
 - ⚡ Fun fact: When motivated and focused i can work for 1.5days without sleeping.Tried and tested.
 <div style={{display="flex",flex-direction="row",justify-content="space-between"}}>
 <a href="https://github.com/dedanmsafari/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedanmsafari&layout=compact&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedanmsafari&layout=compact&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
 </a>
 <a href="https://github.com/dedanmsafari/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dedanmsafari&&show_icons=true&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=dedanmsafari&&show_icons=true&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
 </a>
 </div>
 
