@@ -1,14 +1,15 @@
-# Jambo!<img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" height="80px">, Mi nombre es Dedan Msafari 👨🏼‍💻 
+# Jambo!<img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" height="80px">, Mi nombre es [Dedan Msafari!](https://stormy-journey-04205.herokuapp.com/home) 👨🏼‍💻 
 
 
-&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dedanmsafari.dedanmsafari&style=flat-square&color=38b000)
+&nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dedanmsafari.dedanmsafari&style=flat-square&color=38b000)&nbsp;&nbsp;&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dedanmsafari)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dedan_eleven/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://stormy-journey-04205.herokuapp.com/home)
 
 
 
 
-From the African savanna comes a software Engineer whose thirst for knowledge could drain the river Nile.His enthusiasm for tech has led him from code to design and back, exploring how to combine different technologies to build something people need.He is not done yet...for this is only the beginning.
+From the African savanna comes a software Engineer whose thirst for knowledge could drain the river Nile.His enthusiasm for tech has led him from [design patterns](https://www.patterns.dev/posts/) to [design systems](https://rangle.io/blog/what-is-a-design-system/) and back, exploring how to combine different technologies to build something people need.He is not done yet...for this is only the beginning.
 
 ### Hold on,Let me explain why:
 
@@ -16,9 +17,10 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 - 🌱 I’m currently learning GRAPHQL.
 - 👯 I’m looking to collaborate on React Native.
 - 🤔 I’m looking for help with AWS and DevOps.
+- 📚 Currently reading [The Lean StartUp](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 - 💬 Ask me about React, Javascript and Figma.
 - 📫 How to reach me: dedan.msafari@gmail.com.
-- ⚡ Fun fact: I can make you a believer in anything, even flat earth.Try me!.
+- ⚡ Fun fact: I can make you a believer in anything, even [Flat Earth](https://www.youtube.com/watch?v=ARp2j8t3O8Q).Try me!
 
 
 
