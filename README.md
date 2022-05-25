@@ -13,7 +13,7 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 
 ### Hold on,Let me explain why:
 
-- 🔭 I’m currently working on JAMSTACK.
+- 🔭 I’m currently working on the JAMSTACK.
 - 🌱 I’m currently learning GRAPHQL.
 - 👯 I’m looking to collaborate on React Native.
 - 🤔 I’m looking for help with AWS and DevOps.
