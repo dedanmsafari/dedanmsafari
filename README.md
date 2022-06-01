@@ -52,9 +52,11 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 &nbsp;
 
   
-<div >
+<div align="center">
+  
 <img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" />
 <img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" />
+  
   </div>
 
 
@@ -66,7 +68,5 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
   
   
   <div align="center">
-  
 ### Show some ❤️ by starring some of the repositories!
-
 </div>
