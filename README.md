@@ -59,14 +59,20 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
   
   </div>
 
-
-
+<div>
+</div>
 
   ### Goals for 2022 💪:
   
   To progress forward in my software career while maintaining great mental and physical health.To finally begin coding my mobile application called Localize. Ask me about it.
   
   
-  <div align="center">
-### Show some ❤️ by starring some of the repositories!
-</div>
+ 
+ #
+ 
+ <div align="center">
+  <strong>
+Show some ❤️ by starring some of the repositories!
+  </strong>
+  </div>
+
