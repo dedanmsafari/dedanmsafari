@@ -59,9 +59,11 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
     </div>
 
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
-<div>
-</div>
 
   ### Goals for 2022 💪:
   
