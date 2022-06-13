@@ -32,6 +32,14 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
   <img height= "180em" width="400em"  src="https://github-readme-stats.vercel.app/api?username=dedanmsafari&&show_icons=true&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical" />
 </div>
 
+&nbsp;
+&nbsp;
+
+   ### Goals for 2022 💪:
+  
+  To progress forward in my software career while maintaining great mental and physical health.To finally begin coding my mobile application called Localize. Ask me about it.
+   
+
 ### Languages and Tools 🛠:
 
 <div  align="center">
@@ -48,8 +56,21 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 </div>
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
+
+
+
+  
+
+
+<!-- 
+ #
+ 
+ <div align="center">
+  <strong>
+Show some ❤️ by starring some of the repositories!
+  </strong>
+  </div>  -->
+
 
   
 
@@ -65,17 +86,4 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 &nbsp;
 
 
-<!--   ### Goals for 2022 💪:
-  
-  To progress forward in my software career while maintaining great mental and physical health.To finally begin coding my mobile application called Localize. Ask me about it.
-   -->
-  
-<!--  
- #
- 
- <div align="center">
-  <strong>
-Show some ❤️ by starring some of the repositories!
-  </strong>
-  </div> -->
 
