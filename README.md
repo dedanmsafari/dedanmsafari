@@ -87,6 +87,7 @@ if (isAwesome) {
 
 ---
  
+ <img src="https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg" alt="stacks" width = "100%"/>
  
  #
  <div align="center">
@@ -94,5 +95,6 @@ if (isAwesome) {
 Show some ❤️ by starring some of my other repositories!
   </strong>
   </div>  
+
 
 
