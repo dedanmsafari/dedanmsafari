@@ -1,5 +1,4 @@
-# Jambo!<img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" height="80px">, Mi nombre es [Dedan Msafari!](https://stormy-journey-04205.herokuapp.com/home) 👨🏼‍💻 Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="42px">
-
+# Jambo!<img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" height="80px">, Mi nombre es [Dedan Msafari!](https://stormy-journey-04205.herokuapp.com/home)<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="42px">
 
 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dedanmsafari.dedanmsafari&style=flat-square&color=38b000)&nbsp;&nbsp;&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/dedanmsafari)
@@ -11,7 +10,7 @@
 
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30"> From the African savanna comes a software Engineer whose thirst for knowledge could drain the river Nile.His enthusiasm for tech has led him from [design patterns](https://www.patterns.dev/posts/) to [design systems](https://rangle.io/blog/what-is-a-design-system/) and back, exploring how to combine different technologies to build something people need.He is not done yet...for this is only the beginning.
 
-### Hold on,Let me explain why:
+### Hold on,Let me explain why: 👨🏼‍💻 
 
 - 🔭 I’m currently working on the JAMSTACK.
 - 🌱 I’m currently learning GRAPHQL.
