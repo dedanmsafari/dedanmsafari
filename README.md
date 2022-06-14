@@ -87,7 +87,7 @@ if (isAwesome) {
 
 ---
  
- <img src="https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg" alt="stacks" height="250" width = "100%"/>
+ <img src="https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg" alt="stacks" height="200" width = "100%"/>
  
  #
  <div align="center">
