@@ -1,4 +1,4 @@
-# Jambo!<img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" height="80px">, Mi nombre es [Dedan Msafari!](https://stormy-journey-04205.herokuapp.com/home) 👨🏼‍💻 
+# Jambo!<img src="https://media.giphy.com/media/MEFVcuRIoVETUMYZEe/giphy.gif" height="80px">, Mi nombre es [Dedan Msafari!](https://stormy-journey-04205.herokuapp.com/home) 👨🏼‍💻 Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="42px">
 
 
 &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dedanmsafari.dedanmsafari&style=flat-square&color=38b000)&nbsp;&nbsp;&nbsp;
@@ -9,7 +9,7 @@
 
 
 
-From the African savanna comes a software Engineer whose thirst for knowledge could drain the river Nile.His enthusiasm for tech has led him from [design patterns](https://www.patterns.dev/posts/) to [design systems](https://rangle.io/blog/what-is-a-design-system/) and back, exploring how to combine different technologies to build something people need.He is not done yet...for this is only the beginning.
+<img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30"> From the African savanna comes a software Engineer whose thirst for knowledge could drain the river Nile.His enthusiasm for tech has led him from [design patterns](https://www.patterns.dev/posts/) to [design systems](https://rangle.io/blog/what-is-a-design-system/) and back, exploring how to combine different technologies to build something people need.He is not done yet...for this is only the beginning.
 
 ### Hold on,Let me explain why:
 
@@ -35,9 +35,7 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
 &nbsp;
 &nbsp;
 
-   ### Goals for 2022 💪:
-  
-  To progress forward in my software career while maintaining great mental and physical health.To finally begin coding my mobile application called Localize. Ask me about it.
+ 
    
 
 ### Languages and Tools 🛠:
@@ -54,36 +52,36 @@ From the African savanna comes a software Engineer whose thirst for knowledge co
   <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb"></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase"></code>
 </div>
-&nbsp;
-&nbsp;
-
-
-
-  
-
-
-<!-- 
- #
- 
- <div align="center">
-  <strong>
-Show some ❤️ by starring some of the repositories!
-  </strong>
-  </div>  -->
-
-
-  
+<br/>
 
    <div>
 <img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" />
 <img align="right" height="250" width="400" alt="" src="https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif" />
     </div>
+    
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-
+  ### Goals for 2022 💪:
+  
+  To progress forward in my software career while maintaining great mental and physical health.To finally begin coding my mobile application called Localize. Ask me about it.
+ 
+ 
+ #
+ <div align="center">
+  <strong>
+Show some ❤️ by starring some of the repositories!
+  </strong>
+  </div>  
 
 
