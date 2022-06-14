@@ -92,7 +92,7 @@ if (isAwesome) {
  #
  <div align="center">
   <strong>
-Show some ❤️ by starring some of my other repositories!
+Don't be shy, show some ❤️ by starring some of my other repositories!
   </strong>
   </div>  
 
