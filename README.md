@@ -75,6 +75,18 @@
   ### Goals for 2022 💪:
   
   To progress forward in my software career while maintaining great mental and physical health.To finally begin coding my mobile application called Localize. Ask me about it.
+  
+  ---
+
+```javascript
+if (isAwesome) {
+  starThisRepository();
+}else{
+  teachMe();
+}
+```
+
+---
  
  
  #
