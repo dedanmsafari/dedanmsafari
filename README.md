@@ -5,14 +5,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dedan_eleven/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://stormy-journey-04205.herokuapp.com/home)
 
-<-- 👨🏼‍💻 --> 
+
 
 
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30"> From the African savanna comes a software Engineer whose thirst for knowledge could drain the river Nile.His enthusiasm for tech has led him from [design patterns](https://www.patterns.dev/posts/) to [design systems](https://rangle.io/blog/what-is-a-design-system/) and back, exploring how to combine different technologies to build something people need.He is not done yet...for this is only the beginning.
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
 
-  ### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  Hold on,Let me explain why
+  ### Hold on,Let me explain why : 👨🏼‍💻 
 
 - 🔭 I’m currently working on the JAMSTACK.
 - 🌱 I’m currently learning GRAPHQL.
@@ -88,7 +88,6 @@ if (isAwesome) {
 ```
 
 ---
-
 <!-- https://github.com/dedanmsafari/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dedan Msafari Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=dedanmsafari&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 ![Snake animation](https://github.com/dedanmsafari/dedanmsafari/blob/output/github-contribution-grid-snake.svg)
@@ -98,7 +97,7 @@ if (isAwesome) {
  #
  <div align="center">
   <strong>
-Don't be shy, show some ❤️ by starring some of my other repositories! <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35" align="center" >
+Don't be shy <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  show some ❤️ by starring some of my other repositories! <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35" align="center" >
   </strong>
   </div>  
 
