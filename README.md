@@ -86,6 +86,8 @@ if (isAwesome) {
 ```
 
 ---
+
+![Snake animation](https://github.com/dedanmsafari/dedanmsafari/blob/output/github-contribution-grid-snake.svg)
  
  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg" alt="stacks" height="200" width = "100%"/>
  
