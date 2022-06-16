@@ -5,14 +5,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dedan_eleven/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://stormy-journey-04205.herokuapp.com/home)
 
-
+<-- 👨🏼‍💻 --> 
 
 
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30"> From the African savanna comes a software Engineer whose thirst for knowledge could drain the river Nile.His enthusiasm for tech has led him from [design patterns](https://www.patterns.dev/posts/) to [design systems](https://rangle.io/blog/what-is-a-design-system/) and back, exploring how to combine different technologies to build something people need.He is not done yet...for this is only the beginning.
 
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
 
-### Hold on,Let me explain why : 👨🏼‍💻 
+  ### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>  Hold on,Let me explain why
 
 - 🔭 I’m currently working on the JAMSTACK.
 - 🌱 I’m currently learning GRAPHQL.
