@@ -24,7 +24,7 @@
 
 
 
-### Github Stats ⚡️:
+### Github Stats :  <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="45" align="center"  />
 
 <div align="center">
   <img height= "180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedanmsafari&layout=compact&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical&langs_count=4" />
@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-  ### Goals for 2022 💪:
+  ### Goals for 2022 : <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35" align="center" justify-content="center">
   
   To progress forward in my software career while maintaining great mental and physical health.To finally begin coding my mobile application called Localize. Ask me about it.
   
