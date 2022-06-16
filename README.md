@@ -24,7 +24,7 @@
 
 
 
-### Github Stats :  <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="45" align="center"  />
+### Github Stats :  <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="40" align="center"  justify-content="center" />
 
 <div align="center">
   <img height= "180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedanmsafari&layout=compact&title_color=ff0a54&icon_color=ffff3f&text_color=ffffff&bg_color=0a0012&theme=radical&langs_count=4" />
