@@ -73,7 +73,7 @@
 <br/>
 <br/>
 
-  ### Goals for 2022  <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/>
+  ### Goals for 2023  <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/>
   
   To progress forward in my software career while maintaining great mental and physical health ?. To finally begin coding my mobile application called Localize. Ask me about it.
   
@@ -90,6 +90,7 @@ if (isAwesome) {
 ---
 <!-- https://github.com/dedanmsafari/github-readme-activity-graph -->
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dedan Msafari Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=dedanmsafari&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 ![Snake animation](https://github.com/dedanmsafari/dedanmsafari/blob/output/github-contribution-grid-snake.svg)
  
  <img src="https://github.com/Spyware007/Spyware007/blob/main/img/trial.svg" alt="stacks" height="200" width = "100%"/>
