@@ -21,7 +21,7 @@
 - 📚 Currently reading [The Lean StartUp](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 - 💬 Ask me about React, Javascript and Figma.
 - 📫 How to reach me: dedan.msafari@gmail.com.
-- 📝 Checkout my [Resume](https://github.com/dedanmsafari/dedanmsafari/blob/main/Dedan_Msafari_-_JavaScript%2C_React_and_React_Native_Engineer%2C_UIUX_Designer..pdf).
+- 📝 Checkout my [Resume](https://github.com/dedanmsafari/dedanmsafari/blob/main/Dedan_Msafari_-%20CV.pdf).
 - ⚡ Fun fact: I can make you a believer in anything, even [Flat Earth](https://www.youtube.com/watch?v=ARp2j8t3O8Q).Try me!
 
 
