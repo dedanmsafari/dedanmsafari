@@ -10,6 +10,8 @@
 
 <img src="https://github.com/Spyware007/Spyware007/blob/main/img/feather1.png" width="30" height="30"> From the African savanna comes a software Engineer whose thirst for knowledge could drain the river Nile.His enthusiasm for tech has led him from [design patterns](https://www.patterns.dev/posts/) to [design systems](https://rangle.io/blog/what-is-a-design-system/) and back, exploring how to combine different technologies to build something people need.He is not done yet...for this is only the beginning.
 
+Dont leave without some entertainment.Try playing this [simple game(rock/paper/scissors)](https://game-rock-paper-scissors-vite.netlify.app/).If you beat my AI by being the first to 20 I'll buy you a drink!
+
 <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
 
   ### Hold on,Let me explain why : 👨🏼‍💻 
