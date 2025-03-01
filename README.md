@@ -19,14 +19,14 @@
 
   ### Let me explain why : 👨🏼‍💻 
 
-- 🔭 I’m currently working on the JAMSTACK.
-- 🌱 I’m currently learning GRAPHQL.
+- 🔭 I’m currently working on Celestify and Soki.
+- 🌱 I’m currently learning Engineering Leadership.
 - 👯 I’m looking to collaborate on React Native.
-- 🤔 I’m looking for help with AWS and DevOps.
+- 🤔 I’m looking for help with Marketing and Sales.
 - 📚 Currently reading [The Lean StartUp](https://www.youtube.com/watch?v=RSaIOCHbuYw)
-- 💬 Ask me about React, Javascript and Figma.
+- 💬 Ask me about Leading teams, React Native, Expo and Figma.
 - 📫 How to reach me: dedan.msafari@gmail.com.
-- 📝 Checkout my [Resume](https://github.com/dedanmsafari/dedanmsafari/blob/main/Dedan_Msafari_-%20CV.pdf).
+- 📝 Checkout my [Resume](https://github.com/dedanmsafari/dedanmsafari/blob/main/Dedan_Msafari_-Resume_Accomplishments.pdf).
 - ⚡ Fun fact: I can make you a believer in anything, even [Flat Earth](https://www.youtube.com/watch?v=ARp2j8t3O8Q).
 
 
