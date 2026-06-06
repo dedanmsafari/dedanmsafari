@@ -27,7 +27,7 @@
 - 💬 Ask me about Leading teams, React Native, Expo and Figma.
 - 📫 How to reach me: dedan.msafari@gmail.com.
 - 📝 Checkout my [Resume](https://github.com/dedanmsafari/dedanmsafari/blob/main/Dedan_Msafari_Resume.pdf).
-- ⚡ Fun fact: I stay still for hours.
+- ⚡ Fun fact: I sleep facing upwards.Doctor says its healthy (*^_^*)
 
 
 
