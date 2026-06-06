@@ -26,7 +26,7 @@
 - 📚 Currently reading [The Lean StartUp](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 - 💬 Ask me about Leading teams, React Native, Expo and Figma.
 - 📫 How to reach me: dedan.msafari@gmail.com.
-- 📝 Checkout my [Resume](https://github.com/dedanmsafari/dedanmsafari/blob/main/Dedan_Msafari_-Resume_Accomplishments.pdf).
+- 📝 Checkout my [Resume](https://github.com/dedanmsafari/dedanmsafari/blob/main/Dedan_Msafari_Resume.pdf).
 - ⚡ Fun fact: I stay still for hours.
 
 
