@@ -19,15 +19,15 @@
 
   ### Let me explain why : 👨🏼‍💻 
 
-- 🔭 I’m currently working on Celestify and Soki.
-- 🌱 I’m currently learning Engineering Leadership.
-- 👯 I’m looking to collaborate on React Native.
-- 🤔 I’m looking for help with Marketing and Sales.
+- 🔭 I’m currently working on Soki.
+- 🌱 I’m currently learning Marketing and Sales.
+- 👯 I’m looking to collaborate on LLM an AI Optimisations.
+- 🤔 I’m looking for help with Business Operations.
 - 📚 Currently reading [The Lean StartUp](https://www.youtube.com/watch?v=RSaIOCHbuYw)
 - 💬 Ask me about Leading teams, React Native, Expo and Figma.
 - 📫 How to reach me: dedan.msafari@gmail.com.
 - 📝 Checkout my [Resume](https://github.com/dedanmsafari/dedanmsafari/blob/main/Dedan_Msafari_-Resume_Accomplishments.pdf).
-- ⚡ Fun fact: I can make you a believer in anything, even [Flat Earth](https://www.youtube.com/watch?v=ARp2j8t3O8Q).
+- ⚡ Fun fact: I stay still for hours.
 
 
 
