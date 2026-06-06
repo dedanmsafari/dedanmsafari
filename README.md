@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate on LLM an AI Optimisations.
 - 🤔 I’m looking for help with Business Operations.
 - 📚 Currently reading [The Lean StartUp](https://www.youtube.com/watch?v=RSaIOCHbuYw)
-- 💬 Ask me about Leading teams, React Native, Expo and Figma.
+- 💬 Ask me about Leading teams, Product Engineering, SaaS & Consumer Products.
 - 📫 How to reach me: dedan.msafari@gmail.com.
 - 📝 Checkout my [Resume](https://github.com/dedanmsafari/dedanmsafari/blob/main/Dedan_Msafari_Resume.pdf).
 - ⚡ Fun fact: I sleep facing upwards.Doctor says its healthy (*^_^*)
